@@ -1,0 +1,6 @@
+Tipos de Colecciones
+
+Collection<T> hereda de Iterable<T>
+List<T>
+Set<T>
+Map<K, V>
