@@ -48,3 +48,6 @@ ApiUrl = http://1xx.xx.x.xxx:xxxx/api/
     val API_URL = BuildConfig.ApiUrl
     ```
     Se debe tener en cuenta que si el IDE no reconoce la variable, debemos de reconstruir el proyecto con el martillo y problema solucionado.
+ 
+ **Esta es una prueba realizada desde la tablet Lenovo Tab Smart yoga, utilizando termux y vim**
+ 
